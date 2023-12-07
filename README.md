@@ -1,5 +1,5 @@
 # 🌍 Awesome Remote Sensing Image-Text Retrieval
-A collection of papers on **Remote Sensing Image-Text Retrieval (RSITR)** from the Internet, if there are any omissions, please contact me [jiancheng.pan.plus@gmail.com](https://jianchengpan.space/email.html).
+A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retrieval (RSITR)** from the Internet, if there are any omissions, please contact me [jiancheng.pan.plus@gmail.com](https://jianchengpan.space/email.html).
 
 ## 🧭 Guideline
 
