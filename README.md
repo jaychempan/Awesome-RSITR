@@ -1,9 +1,8 @@
-# Awesome Remote Sensing Image-Text Retrieval
+# 🌍 Awesome Remote Sensing Image-Text Retrieval
 A collection of papers on **Remote Sensing Image-Text Retrieval (RSITR)** from the Internet, if there are any omissions, please contact me [jiancheng.pan.plus@gmail.com](https://jianchengpan.space/email.html).
-
 [TOC]
 
-## Remote Sensing Captions Dataset
+## 📊 Remote Sensing Captions Dataset
 
 | Name                                                         | Image size | Resolution      |
 | ------------------------------------------------------------ | ---------- | --------------- |
@@ -14,8 +13,18 @@ A collection of papers on **Remote Sensing Image-Text Retrieval (RSITR)** from t
 | [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions) | 31,500     | 256 × 256       |
 | [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million  | All Resolutions |
 
+## 🆚 RSITR Benchmark
 
-## Closed-Domain Method
+📌 Cross-Modal Retrieval on RSICD:
+
+https://paperswithcode.com/sota/cross-modal-retrieval-on-rsicd
+
+📌 Cross-Modal Retrieval on RSIRMD:
+
+https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
+
+## 📖 RSITR Method
+### Closed-Domain Method
 - [ACMMM 2023] | **A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval** |  [[paper]](https://dl.acm.org/doi/10.1145/3581783.3612374)
   - Pan, Jiancheng and Ma, Qing and Bai, Cong.
   
@@ -63,7 +72,7 @@ A collection of papers on **Remote Sensing Image-Text Retrieval (RSITR)** from t
 - [Remote Sensing 2020] | **TextRS: Deep Bidirectional Triplet Network for Matching Text to Remote Sensing Images** | [[paper]](https://www.mdpi.com/2072-4292/12/3/405/pdf)
   - Abdullah, Taghreed and Bazi, Yakoub and Al Rahhal, Mohamad M and Mekhalfi, Mohamed L and Rangarajan, Lalitha and Zuair, Mansour.
 
-## Open-Domain Method
+### Open-Domain Method
 - [ArXiv 2023] | **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing** | [[paper]](https://arxiv.org/pdf/2306.11029)
   - Liu, Fan and Chen, Delong and Guan, Zhangqingyun and Zhou, Xiaocong and Zhu, Jiale and Zhou, Jun.
 
@@ -76,7 +85,7 @@ A collection of papers on **Remote Sensing Image-Text Retrieval (RSITR)** from t
 - [TGRS 2023] | **Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval** | [[paper]](https://arxiv.org/pdf/2308.12509)
   - Yuan, Yuan and Zhan, Yang and Xiong, Zhitong.
 
-## Hash Method
+### Hash Method
 - [ArXiv 2022] | **Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing** | [[paper]](https://arxiv.org/pdf/2201.08125)
   - Mikriukov, Georgii and Ravanbakhsh, Mahdyar and Demir, Beg&uuml;m.
 
