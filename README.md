@@ -10,7 +10,7 @@ A collection of papers on **Remote Sensing Image-Text Retrieval (RSITR)** from t
   - [📖 RSITR Method](#-rsitr-method)
     - [Closed-Domain Method](#closed-domain-method)
     - [Open-Domain Method](#open-domain-method)
-    - [Hash Method](#hash-method)
+    - [Hashing Method](#hashing-method)
 
 
 ## 📊 Remote Sensing Captions Dataset
@@ -37,6 +37,10 @@ https://paperswithcode.com/sota/cross-modal-retrieval-on-rsicd
 https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
 
 ## 📖 RSITR Method
+> Closed-Domain Method: Training and testing on a single dataset.
+>Open-Domain Method: Using extra datasets for pre-training to gain more inter-domain knowledge.
+> Hashing Method: Efficient retrieval on large-scale datasets becomes feasible.
+
 ### Closed-Domain Method
 - [ACMMM 2023] | **A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval** |  [[paper]](https://dl.acm.org/doi/10.1145/3581783.3612374)
   - Pan, Jiancheng and Ma, Qing and Bai, Cong.
@@ -98,7 +102,7 @@ https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
 - [TGRS 2023] | **Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval** | [[paper]](https://arxiv.org/pdf/2308.12509)
   - Yuan, Yuan and Zhan, Yang and Xiong, Zhitong.
 
-### Hash Method
+### Hashing Method
 - [ArXiv 2022] | **Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing** | [[paper]](https://arxiv.org/pdf/2201.08125)
   - Mikriukov, Georgii and Ravanbakhsh, Mahdyar and Demir, Beg&uuml;m.
 
