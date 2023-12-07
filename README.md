@@ -7,7 +7,7 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
   - [🧭 Guideline](#-guideline)
   - [💻 News](#-news)
   - [📊 Remote Sensing Captions Dataset](#-remote-sensing-captions-dataset)
-  - [🆚 RSITR Benchmark](#-rsitr-benchmark)
+  - [🆚 RSITR|RSCMR Benchmark](#-rsitrrscmr-benchmark)
   - [📖 RSITR Method](#-rsitr-method)
     - [Closed-Domain Method](#closed-domain-method)
     - [Open-Domain Method](#open-domain-method)
@@ -18,7 +18,7 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
 - **2023/06/20:** 5M+ image-text pairs datasets for remote sensing released [[link]](https://github.com/om-ai-lab/RS5M).
 - **2023/06/19:** The first vision-language foundation model for remote sensing RemoteCLIP proposed [[link]](https://github.com/ChenDelong1999/RemoteCLIP).
 ## 📊 Remote Sensing Captions Dataset
-> Collect the more popular datasets, and welcome contact for additions if there are more.
+> Collect the more popular datasets on RSITR, and welcome contact for additions if there are more.
 
 | Name                                                         | Image size | Resolution      |
 | ------------------------------------------------------------ | ---------- | --------------- |
@@ -27,9 +27,9 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
 | [RSICD](https://github.com/201528014227051/RSICD_optimal)    | 10,921     | 224 × 224       |
 | [RSITMD](https://github.com/xiaoyuan1996/AMFMN/tree/master/RSITMD) | 4,743      | 256 × 256       |
 | [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions) | 31,500     | 256 × 256       |
-| [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million  | All Resolutions |
+| [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million+ | All Resolutions |
 
-## 🆚 RSITR Benchmark
+## 🆚 RSITR|RSCMR Benchmark
 > Welcome to add more RSITR methods.
 
 📌 Cross-Modal Retrieval on RSICD:
