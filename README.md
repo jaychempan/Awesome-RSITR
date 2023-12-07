@@ -14,7 +14,7 @@ Record the major news of XX community:
     - [Hashing Method](#hashing-method)
 
 ## 💻 News
-> Record the major news of XX community
+> Record the major news of RSVL community.
 - **2023/06/20:** 5M+ image-text pairs datasets for remote sensing released [[link]](https://github.com/om-ai-lab/RS5M).
 - **2023/06/19:** The first vision-language foundation model for remote sensing RemoteCLIP proposed [[link]](https://github.com/ChenDelong1999/RemoteCLIP).
 ## 📊 Remote Sensing Captions Dataset
@@ -30,7 +30,7 @@ Record the major news of XX community:
 | [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million  | All Resolutions |
 
 ## 🆚 RSITR Benchmark
-> Welcome to add more RSITR methods
+> Welcome to add more RSITR methods.
 
 📌 Cross-Modal Retrieval on RSICD:
 
