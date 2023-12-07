@@ -1,7 +1,17 @@
 # 🌍 Awesome Remote Sensing Image-Text Retrieval
 A collection of papers on **Remote Sensing Image-Text Retrieval (RSITR)** from the Internet, if there are any omissions, please contact me [jiancheng.pan.plus@gmail.com](https://jianchengpan.space/email.html).
 
-[TOC]
+## 🧭 Guideline
+
+- [🌍 Awesome Remote Sensing Image-Text Retrieval](#-awesome-remote-sensing-image-text-retrieval)
+  - [🧭 Guideline](#-guideline)
+  - [📊 Remote Sensing Captions Dataset](#-remote-sensing-captions-dataset)
+  - [🆚 RSITR Benchmark](#-rsitr-benchmark)
+  - [📖 RSITR Method](#-rsitr-method)
+    - [Closed-Domain Method](#closed-domain-method)
+    - [Open-Domain Method](#open-domain-method)
+    - [Hash Method](#hash-method)
+
 
 ## 📊 Remote Sensing Captions Dataset
 
