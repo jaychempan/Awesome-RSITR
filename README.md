@@ -38,7 +38,9 @@ https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
 
 ## 📖 RSITR Method
 > Closed-Domain Method: Training and testing on a single dataset.
+> 
 >Open-Domain Method: Using extra datasets for pre-training to gain more inter-domain knowledge.
+>
 > Hashing Method: Efficient retrieval on large-scale datasets becomes feasible.
 
 ### Closed-Domain Method
