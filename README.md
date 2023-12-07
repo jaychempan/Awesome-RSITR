@@ -2,7 +2,7 @@
 ## 🧭 Guideline
 A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retrieval (RSITR) ｜ Remote Sensing Cross-model Retrieval (RSCMR)** from the Internet, if there are any omissions, please contact me [jiancheng.pan.plus@gmail.com](https://jianchengpan.space/email.html).
 🤝 If you want to join **Vision Language Model for Remote Sensing (RSVL)**, you can click [Slack Group](https://join.slack.com/t/slack-nws5068/shared_invite/zt-1zpu3xt85-m8I3kVCp4qxAA1r1bDmKmQ).
-Record the major news of XX community:
+
 - [🌍 Awesome Remote Sensing Image-Text Retrieval](#-awesome-remote-sensing-image-text-retrieval)
   - [🧭 Guideline](#-guideline)
   - [💻 News](#-news)
