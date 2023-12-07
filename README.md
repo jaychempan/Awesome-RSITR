@@ -1,24 +1,24 @@
-# 🌍 Awesome Remote Sensing Image-Text Retrieval
+# 🌍 Awesome Remote Sensing Image-Text Retrieval | Remote Sensing Cross-model Retrieval
 ## 🧭 Guideline
 A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retrieval (RSITR) ｜ Remote Sensing Cross-model Retrieval (RSCMR)** from the Internet, if there are any omissions, please contact me [jiancheng.pan.plus@gmail.com](https://jianchengpan.space/email.html).
 🤝 If you want to join **Vision Language Model for Remote Sensing (RSVL)**, you can click [Slack Group](https://join.slack.com/t/slack-nws5068/shared_invite/zt-1zpu3xt85-m8I3kVCp4qxAA1r1bDmKmQ).
 
-- [🌍 Awesome Remote Sensing Image-Text Retrieval](#-awesome-remote-sensing-image-text-retrieval)
+- [🌍 Awesome Remote Sensing Image-Text Retrieval | Remote Sensing Cross-model Retrieval](#-awesome-remote-sensing-image-text-retrieval--remote-sensing-cross-model-retrieval)
   - [🧭 Guideline](#-guideline)
   - [💻 News](#-news)
   - [📊 Remote Sensing Captions Dataset](#-remote-sensing-captions-dataset)
-  - [🆚 RSITR|RSCMR Benchmark](#-rsitrrscmr-benchmark)
-  - [📖 RSITR Method](#-rsitr-method)
+  - [🆚 RSITR | RSCMR Benchmark](#-rsitr--rscmr-benchmark)
+  - [📖 RSITR | RSCMR Method](#-rsitr--rscmr-method)
     - [Closed-Domain Method](#closed-domain-method)
     - [Open-Domain Method](#open-domain-method)
     - [Hashing Method](#hashing-method)
 
 ## 💻 News
 > Record the major news of RSVL community.
-- **2023/06/20:** 5M+ image-text pairs datasets for remote sensing released [[link]](https://github.com/om-ai-lab/RS5M).
+- **2023/06/20:** 5M+ image-text pairs datasets RS5M for remote sensing released [[link]](https://github.com/om-ai-lab/RS5M).
 - **2023/06/19:** The first vision-language foundation model for remote sensing RemoteCLIP proposed [[link]](https://github.com/ChenDelong1999/RemoteCLIP).
 ## 📊 Remote Sensing Captions Dataset
-> Collect the more popular datasets on RSITR, and welcome contact for additions if there are more.
+> Collect the more popular image-text pairs datasets on remote sensing, and welcome contact for additions if there are more.
 
 | Name                                                         | Image size | Resolution      |
 | ------------------------------------------------------------ | ---------- | --------------- |
@@ -29,8 +29,8 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
 | [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions) | 31,500     | 256 × 256       |
 | [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million+ | All Resolutions |
 
-## 🆚 RSITR|RSCMR Benchmark
-> Welcome to add more RSITR methods.
+## 🆚 RSITR | RSCMR Benchmark
+> Welcome to add more RSITR | RSCMR methods.
 
 📌 Cross-Modal Retrieval on RSICD:
 
@@ -40,7 +40,7 @@ https://paperswithcode.com/sota/cross-modal-retrieval-on-rsicd
 
 https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
 
-## 📖 RSITR Method
+## 📖 RSITR | RSCMR Method
 > Closed-Domain Method: Training and testing on a single dataset.
 > 
 >Open-Domain Method: Using extra datasets for pre-training to gain more inter-domain knowledge.
