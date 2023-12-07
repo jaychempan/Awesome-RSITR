@@ -20,7 +20,7 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
 ## 📊 Remote Sensing Captions Dataset
 > Collect the more popular image-text pairs datasets on remote sensing, and welcome contact for additions if there are more.
 
-| Name                                                         | Image size | Resolution      |
+| Dataset Name                                                         | Image size | Image Resolution      |
 | ------------------------------------------------------------ | ---------- | --------------- |
 | [UCM-Captions](https://github.com/201528014227051/RSICD_optimal) | 613        | 256 × 256       |
 | [Sydney-Captions](https://github.com/201528014227051/RSICD_optimal) | 2,100      | 500 × 500       |
