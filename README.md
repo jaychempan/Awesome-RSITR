@@ -36,7 +36,7 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
 
 https://paperswithcode.com/sota/cross-modal-retrieval-on-rsicd
 
-📌 Cross-Modal Retrieval on RSIMD:
+📌 Cross-Modal Retrieval on RSITMD:
 
 https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
 
@@ -98,12 +98,12 @@ https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
   
 - [TGRS 2022] | **Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information** | [[paper]](https://arxiv.org/pdf/2204.09860) [[github]](https://github.com/xiaoyuan1996/GaLR)
   - Zhiqiang Yuan, Wenkai Zhang, Changyuan Tian, Xuee Rong, Zhengyuan Zhang, Hongqi Wang, K. Fu, Xian Sun.
-  
-- [TGRS 2022] | **Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval** | [[paper]](https://arxiv.org/pdf/2204.09868) [[github]](https://github.com/xiaoyuan1996/AMFMN)
-  - Zhiqiang Yuan, Wenkai Zhang, K. Fu, Xuan Li, Chubo Deng, Hongqi Wang, Xian Sun.
 
-- [TGRS 2022] | **A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing** | [[paper]](https://ieeexplore.ieee.org/abstract/document/9594840/)
+- [TGRS 2021] | **A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing** | [[paper]](https://ieeexplore.ieee.org/abstract/document/9594840/)
   - Zhiqiang Yuan, Wenkai Zhang, Xuee Rong, Xuan Li, Jialiang Chen, Hongqi Wang, K. Fu, Xian Sun.
+
+- [TGRS 2021] | **Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval** | [[paper]](https://ieeexplore.ieee.org/document/9437331) [[github]](https://github.com/xiaoyuan1996/AMFMN)
+  - Zhiqiang Yuan, Wenkai Zhang, K. Fu, Xuan Li, Chubo Deng, Hongqi Wang, Xian Sun.
 
 - [JSTARS 2021] | **A Deep Semantic Alignment Network for the Cross-Modal Image-Text Retrieval in Remote Sensing** | [[paper]](https://ieeexplore.ieee.org/iel7/4609443/4609444/09395191.pdf)
   - Qimin Cheng, Yuzhuo Zhou, Peng Fu, Yuan Xu, Liang Zhang.
