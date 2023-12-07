@@ -14,6 +14,7 @@ A collection of papers on **Remote Sensing Image-Text Retrieval (RSITR)** from t
 
 
 ## 📊 Remote Sensing Captions Dataset
+> Collect the more popular datasets, and welcome contact for additions if there are more.
 
 | Name                                                         | Image size | Resolution      |
 | ------------------------------------------------------------ | ---------- | --------------- |
@@ -25,12 +26,13 @@ A collection of papers on **Remote Sensing Image-Text Retrieval (RSITR)** from t
 | [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million  | All Resolutions |
 
 ## 🆚 RSITR Benchmark
+> Welcome to add more RSITR methods
 
 📌 Cross-Modal Retrieval on RSICD:
 
 https://paperswithcode.com/sota/cross-modal-retrieval-on-rsicd
 
-📌 Cross-Modal Retrieval on RSIRMD:
+📌 Cross-Modal Retrieval on RSIMD:
 
 https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
 
