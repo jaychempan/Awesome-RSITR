@@ -1,10 +1,11 @@
 # 🌍 Awesome Remote Sensing Image-Text Retrieval
-A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retrieval (RSITR) ｜ Remote Sensing Cross-model Retrieval (RSCMR)** from the Internet, if there are any omissions, please contact me [jiancheng.pan.plus@gmail.com](https://jianchengpan.space/email.html).
-
 ## 🧭 Guideline
-
+A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retrieval (RSITR) ｜ Remote Sensing Cross-model Retrieval (RSCMR)** from the Internet, if there are any omissions, please contact me [jiancheng.pan.plus@gmail.com](https://jianchengpan.space/email.html).
+🤝 If you want to join **Vision Language Model for Remote Sensing (RSVL)**, you can click [Slack Group](https://join.slack.com/t/slack-nws5068/shared_invite/zt-1zpu3xt85-m8I3kVCp4qxAA1r1bDmKmQ).
+Record the major news of XX community:
 - [🌍 Awesome Remote Sensing Image-Text Retrieval](#-awesome-remote-sensing-image-text-retrieval)
   - [🧭 Guideline](#-guideline)
+  - [💻 News](#-news)
   - [📊 Remote Sensing Captions Dataset](#-remote-sensing-captions-dataset)
   - [🆚 RSITR Benchmark](#-rsitr-benchmark)
   - [📖 RSITR Method](#-rsitr-method)
@@ -12,7 +13,10 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
     - [Open-Domain Method](#open-domain-method)
     - [Hashing Method](#hashing-method)
 
-
+## 💻 News
+> Record the major news of XX community
+- **2023/06/20:** 5M+ image-text pairs datasets for remote sensing released [[link]](https://github.com/om-ai-lab/RS5M).
+- **2023/06/19:** The first vision-language foundation model for remote sensing RemoteCLIP proposed [[link]](https://github.com/ChenDelong1999/RemoteCLIP).
 ## 📊 Remote Sensing Captions Dataset
 > Collect the more popular datasets, and welcome contact for additions if there are more.
 
