@@ -1,9 +1,9 @@
-# 🌍 Awesome Remote Sensing Image-Text Retrieval | Remote Sensing Cross-model Retrieval
+# 🌍 Awesome Remote Sensing Image-Text Retrieval | Remote Sensing Cross-model Retrieval | Remote Sensing Vision-Lanuage Models
 ## 🧭 Guideline
 A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retrieval (RSITR) ｜ Remote Sensing Cross-model Retrieval (RSCMR)** from the Internet, if there are any omissions, please contact me [jiancheng.pan.plus@gmail.com](https://jianchengpan.space/email.html).
-🤝 If you want to join **Vision Language Model for Remote Sensing (RSVL)**, you can click [Slack Group](https://join.slack.com/t/slack-nws5068/shared_invite/zt-1zpu3xt85-m8I3kVCp4qxAA1r1bDmKmQ).
+🤝 If you want to join **Remote Sensing Vision-Language Models (RSVLMs)**, you can click [Slack Group](https://join.slack.com/t/slack-nws5068/shared_invite/zt-1zpu3xt85-m8I3kVCp4qxAA1r1bDmKmQ).
 
-- [🌍 Awesome Remote Sensing Image-Text Retrieval | Remote Sensing Cross-model Retrieval](#-awesome-remote-sensing-image-text-retrieval--remote-sensing-cross-model-retrieval)
+- [🌍 Awesome Remote Sensing Image-Text Retrieval | Remote Sensing Cross-model Retrieval | Remote Sensing Vision-Lanuage Models](#-awesome-remote-sensing-image-text-retrieval--remote-sensing-cross-model-retrieval--remote-sensing-vision-lanuage-models)
   - [🧭 Guideline](#-guideline)
   - [💻 News](#-news)
   - [📊 Remote Sensing Captions Dataset](#-remote-sensing-captions-dataset)
@@ -14,20 +14,22 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
     - [Hashing Method](#hashing-method)
 
 ## 💻 News
-> Record the major news of RSVL community.
+> Record the major news of RSVLMs community.
+- **2023/12/20:**: SkyScript-a comprehensive vision-language dataset for remote sensing images covering 29K distinct semantic tags (AAAI 2024) [[link]](https://github.com/wangzhecheng/SkyScript).
 - **2023/06/20:** 5M+ image-text pairs datasets RS5M for remote sensing released [[link]](https://github.com/om-ai-lab/RS5M).
 - **2023/06/19:** The first vision-language foundation model for remote sensing RemoteCLIP proposed [[link]](https://github.com/ChenDelong1999/RemoteCLIP).
 ## 📊 Remote Sensing Captions Dataset
 > Collect the more popular image-text pairs datasets on remote sensing, and welcome contact for additions if there are more.
 
-| Dataset Name                                                         | Image size | Image Resolution      |
-| ------------------------------------------------------------ | ---------- | --------------- |
-| [UCM-Captions](https://github.com/201528014227051/RSICD_optimal) | 613        | 256 × 256       |
-| [Sydney-Captions](https://github.com/201528014227051/RSICD_optimal) | 2,100      | 500 × 500       |
-| [RSICD](https://github.com/201528014227051/RSICD_optimal)    | 10,921     | 224 × 224       |
-| [RSITMD](https://github.com/xiaoyuan1996/AMFMN/tree/master/RSITMD) | 4,743      | 256 × 256       |
-| [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions) | 31,500     | 256 × 256       |
-| [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million+ | All Resolutions |
+| Dataset Name                                                         | Image size | Image Resolution      | VLMs |
+| ------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------ |
+| [UCM-Captions](https://github.com/201528014227051/RSICD_optimal) | 613        | 256 × 256       | - |
+| [Sydney-Captions](https://github.com/201528014227051/RSICD_optimal) | 2,100      | 500 × 500       | - |
+| [RSICD](https://github.com/201528014227051/RSICD_optimal)    | 10,921     | 224 × 224       | - |
+| [RSITMD](https://github.com/xiaoyuan1996/AMFMN/tree/master/RSITMD) | 4,743      | 256 × 256       | - |
+| [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions) | 31,500     | 256 × 256       | - |
+| [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million+ | All Resolutions | [GeoRSCLIP](https://huggingface.co/Zilun/GeoRSCLIP) |
+| [SkyScript](https://github.com/wangzhecheng/SkyScript)                    | 2.6 million+ | All Resolutions | [SkyCLIP](https://github.com/wangzhecheng/SkyScript) |
 
 ## 🆚 RSITR | RSCMR Benchmark
 > Welcome to add more RSITR | RSCMR methods.
@@ -114,7 +116,10 @@ https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
 - [Remote Sensing 2020] | **TextRS: Deep Bidirectional Triplet Network for Matching Text to Remote Sensing Images** | [[paper]](https://www.mdpi.com/2072-4292/12/3/405/pdf)
   - T. M. Ali, Y. Bazi, Mohamad Mahmoud Al Rahhal, M. L. Mekhalfi, Lalitha Rangarajan, M. Zuair.
 
-### Open-Domain Method  
+### Open-Domain Method
+- [AAAI 2024] | **SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing** |  [[paper]](https://arxiv.org/abs/2312.12856) [[github]](https://github.com/wangzhecheng/SkyScript)
+  - Zhecheng Wang, Rajanie Prabha, Tianyuan Huang, Jiajun Wu, Ram Rajagopal
+
 - [ArXiv 2023] | **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing** | [[paper]](https://arxiv.org/pdf/2306.11029) [[github]](https://github.com/ChenDelong1999/RemoteCLIP)
   - Fan Liu, Delong Chen, Zhan-Rong Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
 - [ArXiv 2023] | **RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model** | [[paper]](https://arxiv.org/abs/2306.11300) [[github]](https://github.com/om-ai-lab/RS5M)
