@@ -9,8 +9,8 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
   - [📊 Remote Sensing Captions Dataset](#-remote-sensing-captions-dataset)
   - [🆚 RSITR | RSCMR Benchmark](#-rsitr--rscmr-benchmark)
   - [📖 RSITR | RSCMR Method](#-rsitr--rscmr-method)
-    - [Closed-Domain Method](#closed-domain-method)
     - [Open-Domain Method](#open-domain-method)
+    - [Closed-Domain Method](#closed-domain-method)
     - [Hashing Method](#hashing-method)
 
 ## 💻 News
@@ -48,7 +48,20 @@ https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
 >Open-Domain Method: Using extra datasets for pre-training to gain more inter-domain knowledge.
 >
 > Hashing Method: Efficient retrieval on large-scale datasets becomes feasible.
+### Open-Domain Method
+- [AAAI 2024] | **SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing** |  [[paper]](https://arxiv.org/abs/2312.12856) [[github]](https://github.com/wangzhecheng/SkyScript)
+  - Zhecheng Wang, Rajanie Prabha, Tianyuan Huang, Jiajun Wu, Ram Rajagopal
 
+- [ArXiv 2023] | **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing** | [[paper]](https://arxiv.org/pdf/2306.11029) [[github]](https://github.com/ChenDelong1999/RemoteCLIP)
+  - Fan Liu, Delong Chen, Zhan-Rong Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
+- [ArXiv 2023] | **RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model** | [[paper]](https://arxiv.org/abs/2306.11300) [[github]](https://github.com/om-ai-lab/RS5M)
+  - Zilun Zhang, Tiancheng Zhao, Yulong Guo, Jianwei Yin.
+
+- [ArXiv 2023] | **RSGPT: A Remote Sensing Vision Language Model and Benchmark** | [[paper]](https://arxiv.org/pdf/2307.15266)
+  - Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, Xiang Li.
+
+- [TGRS 2023] | **Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval** | [[paper]](https://doi.org/10.1109/TGRS.2023.3308969)
+  - Yuan Yuan, Yangfan Zhan, Zhitong Xiong.
 ### Closed-Domain Method
 - [ACMMM 2023] | **A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval** |  [[paper]](https://dl.acm.org/doi/10.1145/3581783.3612374) [[github]](https://github.com/jaychempan/PIR)
   - Jiancheng Pan, Qing Ma, Cong Bai.
@@ -115,21 +128,6 @@ https://paperswithcode.com/sota/cross-modal-retrieval-on-rsitmd
 
 - [Remote Sensing 2020] | **TextRS: Deep Bidirectional Triplet Network for Matching Text to Remote Sensing Images** | [[paper]](https://www.mdpi.com/2072-4292/12/3/405/pdf)
   - T. M. Ali, Y. Bazi, Mohamad Mahmoud Al Rahhal, M. L. Mekhalfi, Lalitha Rangarajan, M. Zuair.
-
-### Open-Domain Method
-- [AAAI 2024] | **SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing** |  [[paper]](https://arxiv.org/abs/2312.12856) [[github]](https://github.com/wangzhecheng/SkyScript)
-  - Zhecheng Wang, Rajanie Prabha, Tianyuan Huang, Jiajun Wu, Ram Rajagopal
-
-- [ArXiv 2023] | **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing** | [[paper]](https://arxiv.org/pdf/2306.11029) [[github]](https://github.com/ChenDelong1999/RemoteCLIP)
-  - Fan Liu, Delong Chen, Zhan-Rong Guan, Xiaocong Zhou, Jiale Zhu, Jun Zhou
-- [ArXiv 2023] | **RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model** | [[paper]](https://arxiv.org/abs/2306.11300) [[github]](https://github.com/om-ai-lab/RS5M)
-  - Zilun Zhang, Tiancheng Zhao, Yulong Guo, Jianwei Yin.
-
-- [ArXiv 2023] | **RSGPT: A Remote Sensing Vision Language Model and Benchmark** | [[paper]](https://arxiv.org/pdf/2307.15266)
-  - Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, Xiang Li.
-
-- [TGRS 2023] | **Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval** | [[paper]](https://doi.org/10.1109/TGRS.2023.3308969)
-  - Yuan Yuan, Yangfan Zhan, Zhitong Xiong.
 
 ### Hashing Method
 - [JSTARS 2022] | **Remote Sensing Cross-Modal Retrieval by Deep Image-Voice Hashing** | [[paper]](https://doi.org/10.1109/JSTARS.2022.3216333)
