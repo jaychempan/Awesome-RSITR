@@ -29,7 +29,7 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
 | [RSITMD](https://github.com/xiaoyuan1996/AMFMN/tree/master/RSITMD) | 4,743      | 256 × 256       | - |
 | [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions) | 31,500     | 256 × 256       | - |
 | [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million+ | All Resolutions | [GeoRSCLIP](https://huggingface.co/Zilun/GeoRSCLIP) |
-| [SkyScript](https://github.com/wangzhecheng/SkyScript)                    | 2.6 million+ | All Resolutions | [SkyCLIP](https://github.com/wangzhecheng/SkyScript) |
+| [SkyScript](https://github.com/wangzhecheng/SkyScript)                    | 5.2 million+ | All Resolutions | [SkyCLIP](https://github.com/wangzhecheng/SkyScript) |
 
 ## 🆚 RSITR | RSCMR Benchmark
 > Welcome to add more RSITR | RSCMR methods.
