@@ -16,6 +16,7 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
 ## 💻 News
 > Record the major news of RSVLMs community.
 - **2023/12/20:**: SkyScript-a comprehensive vision-language dataset for remote sensing images covering 29K distinct semantic tags (AAAI 2024) [[link]](https://github.com/wangzhecheng/SkyScript).
+- **2023/11/24**: GeoChat: Grounded Large Vision-Language Model for Remote Sensing [[link]](https://arxiv.org/abs/2311.15826). 
 - **2023/06/20:** 5M+ image-text pairs datasets RS5M for remote sensing released [[link]](https://github.com/om-ai-lab/RS5M).
 - **2023/06/19:** The first vision-language foundation model for remote sensing RemoteCLIP proposed [[link]](https://github.com/ChenDelong1999/RemoteCLIP).
 ## 📊 Remote Sensing Captions Dataset
