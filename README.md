@@ -3,7 +3,7 @@
 A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retrieval (RSITR) ｜ Remote Sensing Cross-model Retrieval (RSCMR)** from the Internet, if there are any omissions, please contact me [jiancheng.pan.plus@gmail.com](https://jianchengpan.space/email.html).
 🤝 If you want to join **Remote Sensing Vision-Language Models (RSVLMs)**, you can click [Slack Group](https://join.slack.com/t/slack-nws5068/shared_invite/zt-1zpu3xt85-m8I3kVCp4qxAA1r1bDmKmQ).
 
-- [🌍 Awesome Remote Sensing Image-Text Retrieval | Remote Sensing Cross-model Retrieval | Remote Sensing Vision-Lanuage Models](#-awesome-remote-sensing-image-text-retrieval--remote-sensing-cross-model-retrieval--remote-sensing-vision-lanuage-models)
+- [🎮 Awesome Remote Sensing Image-Text Retrieval | Remote Sensing Cross-model Retrieval | Remote Sensing Vision-Lanuage Models](#-awesome-remote-sensing-image-text-retrieval--remote-sensing-cross-model-retrieval--remote-sensing-vision-lanuage-models)
   - [🧭 Guideline](#-guideline)
   - [💻 News](#-news)
   - [📊 Remote Sensing Captions Dataset](#-remote-sensing-captions-dataset)
