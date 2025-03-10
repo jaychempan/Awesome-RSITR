@@ -70,7 +70,7 @@ A Benchmark and Awesome Collection of Methods for **Remote Sensing Image-Text Re
 
 - [TGRS 2023] | **Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval** | [[📝 Paper]](https://doi.org/10.1109/TGRS.2023.3308969)
   - Yuan Yuan, Yangfan Zhan, Zhitong Xiong.
-### Closed-Domain Method
+### 🔒 Closed-Domain Method
 - [ACMMM 2023] | **A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval** |  [[📝 Paper]](https://dl.acm.org/doi/10.1145/3581783.3612374) [[📂 GitHub]](https://github.com/jaychempan/PIR)
   - Jiancheng Pan, Qing Ma, Cong Bai.
 
