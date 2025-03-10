@@ -27,13 +27,14 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
 ## 📊 Remote Sensing Captions Dataset
 > Collect the more popular image-text pairs datasets on remote sensing, and welcome contact for additions if there are more.
 
-| Dataset Name                                                         | Image size | Image Resolution      | VLMs |
+| Dataset Name                                                         | No. of images | Image Resolution      | Vision-Lanuage Model |
 | ------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------ |
 | [UCM-Captions](https://github.com/201528014227051/RSICD_optimal) | 613        | 256 × 256       | - |
 | [Sydney-Captions](https://github.com/201528014227051/RSICD_optimal) | 2,100      | 500 × 500       | - |
 | [RSICD](https://github.com/201528014227051/RSICD_optimal)    | 10,921     | 224 × 224       | - |
 | [RSITMD](https://github.com/xiaoyuan1996/AMFMN/tree/master/RSITMD) | 4,743      | 256 × 256       | - |
 | [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions) | 31,500     | 256 × 256       | - |
+| [RET-3, SEG-4, DET-10](https://github.com/ChenDelong1999/RemoteCLIP) | -     | All Resolutions       | [RemoteCLIP](https://github.com/ChenDelong1999/RemoteCLIP) |
 | [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million+ | All Resolutions | [GeoRSCLIP](https://huggingface.co/Zilun/GeoRSCLIP) |
 | [SkyScript](https://github.com/wangzhecheng/SkyScript)                    | 5.2 million+ | All Resolutions | [SkyCLIP](https://github.com/wangzhecheng/SkyScript) |
 
@@ -49,12 +50,12 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
 
 
 ## 📖 RSITR | RSCMR Method
-> Closed-Domain Method: Training and testing on a single dataset.
+> 🔒 Closed-Domain Method: Training and testing on a single dataset.
 > 
->Open-Domain Method: Using extra datasets for pre-training to gain more inter-domain knowledge.
+> 🌍 Open-Domain Method: Using extra datasets for pre-training to gain more inter-domain knowledge.
 >
-> Hashing Method: Efficient retrieval on large-scale datasets becomes feasible.
-### Open-Domain Method
+> ⚡️ Hashing Method: Efficient retrieval on large-scale datasets becomes feasible.
+### 🌍 Open-Domain Method
 - [AAAI 2024] | **SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing** |  [[📝 Paper]](https://arxiv.org/abs/2312.12856) [[📂 GitHub]](https://github.com/wangzhecheng/SkyScript)
   - Zhecheng Wang, Rajanie Prabha, Tianyuan Huang, Jiajun Wu, Ram Rajagopal
 
@@ -135,7 +136,7 @@ A benchmark and awesome collection of papers on **Remote Sensing Image-Text Retr
 - [Remote Sensing 2020] | **TextRS: Deep Bidirectional Triplet Network for Matching Text to Remote Sensing Images** | [[📝 Paper]](https://www.mdpi.com/2072-4292/12/3/405/pdf)
   - T. M. Ali, Y. Bazi, Mohamad Mahmoud Al Rahhal, M. L. Mekhalfi, Lalitha Rangarajan, M. Zuair.
 
-### Hashing Method
+### ⚡️ Hashing Method
 - [JSTARS 2022] | **Remote Sensing Cross-Modal Retrieval by Deep Image-Voice Hashing** | [[📝 Paper]](https://doi.org/10.1109/JSTARS.2022.3216333)
   - Yichao Zhang, Xiangtao Zheng, Xiaoqiang Lu.
 
